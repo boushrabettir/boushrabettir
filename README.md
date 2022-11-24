@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Boushra Bettir and I love making imagination come to life with games and websites! Currently, I am pursuing a Bachelors in Computer Science at California State University Fullerton. <br><br> Experience:<br>- Unity 2D<br>- Unity 3D <br>- Replit<br>- Girls who Code Online Summer Bootcamp<br><br>Questions? Please contact me at boushrab04second@gmail.com! Take a look around and enjoy!
+Hello, my name is Boushra Bettir and I love making imagination come to life! Currently, I am pursuing a Bachelors in Computer Science at California State University Fullerton. <br><br> Experience:<br>- Unity 2D<br>- Unity 3D <br>- Replit<br>- Girls who Code Online Summer Bootcamp<br><br>Questions? Please contact me at boushrab04second@gmail.com! Take a look around and enjoy!
 
 
 # 💻 Tech Stack:
