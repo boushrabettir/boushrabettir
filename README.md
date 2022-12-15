@@ -37,5 +37,5 @@ return 0;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=boushrabettir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### Please contact me at boushra.bettir04@csu.fullerton.edu! It's easy! 😄
+### Please contact me at boushra.bettir04@csu.fullerton.edu! 😄
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
