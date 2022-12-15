@@ -8,7 +8,6 @@
 using namespace std;
 
 int main() {
-
 vector<string> welcome_message = {"User", "Has", "Arrived", "!"};
 bool user_arrival{true};
 if(user_arrival) 
