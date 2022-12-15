@@ -15,6 +15,7 @@ if(user_arrival)
   for(const string print_out : welcome_message) {
     cout << print_out << " ";
     }
+    
 return 0;
 }
 
