@@ -1,6 +1,6 @@
 #  Hey, you! ![goma-cat](https://user-images.githubusercontent.com/116927138/207805543-b7324949-6e5b-4a57-845c-ac5bb182b889.gif)
 
-### Hello, my name is Boushra Bettir and I love making imagination come to life! Currently, I am pursuing a Bachelors in Computer Science at California State University Fullerton.  
+### Hello, my name is Boushra Bettir and I love making imagination come to life! I am a current freshman pursuing a Bachelors in Computer Science at California State University Fullerton.  
 [![](https://visitcount.itsvg.in/api?id=boushrabettir&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
