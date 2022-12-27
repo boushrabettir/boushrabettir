@@ -10,7 +10,7 @@ let programmer = {
   favorites: ['C++', 'Javascript', 'CSS'],
   school: 'CSUF',
   interests: ['Korea', 'Exercise', 'Writing']
-  availability: 'Always',
+  availability: true,
 };
 ```
 ## 🖥️ Tools
