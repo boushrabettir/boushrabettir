@@ -6,9 +6,9 @@
 
 let programmer = {
   name: 'Boushra Bettir',
-  age: 18,
   favorites: ['C++', 'Javascript', 'CSS'],
   school: 'CSUF',
+  gradDate: 2026,
   interests: ['Korea', 'Exercise', 'Writing']
   availability: true,
 };
