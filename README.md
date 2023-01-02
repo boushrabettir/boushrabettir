@@ -8,7 +8,7 @@ let programmer = {
   favorites: ['C++', 'Javascript', 'CSS'],
   school: 'CSUF',
   gradDate: 2026,
-  interests: ['Korea', 'Exercise', 'Writing']
+  interests: ['Korea', 'Exercise', 'Writing'],
   availability: true,
 };
 ```
