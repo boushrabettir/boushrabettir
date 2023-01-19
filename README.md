@@ -1,7 +1,7 @@
 #  Hey, you! ![goma-cat](https://user-images.githubusercontent.com/116927138/207805543-b7324949-6e5b-4a57-845c-ac5bb182b889.gif)
 
 [![](https://visitcount.itsvg.in/api?id=boushrabettir&icon=0&color=0)](https://visitcount.itsvg.in)
-```c++
+```js
 
 let programmer = {
   name: 'Boushra Bettir',
