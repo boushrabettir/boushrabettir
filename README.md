@@ -12,7 +12,7 @@ class User:
 ### Creative Showcase<br/>
 [🐇 **acmOpportunities**](https://github.com/acmcsufoss/acmOpportunities)<br/>
 [🐢 **textboost**](https://github.com/boushrabettir/textboost)<br/>
-[💫 **ginder [TESTING]**](https://github.com/boushrabettir/ginder)<br/>
+[💫 **ginder**](https://github.com/boushrabettir/ginder)<br/>
 [🐰 **autoaudio [TESTING]**](https://github.com/boushrabettir/autoaudio)<br/>
 [🎀 **Matrix**](https://github.com/boushrabettir/matrix)<br/>
 [🪐 **todoit [WIP]**](https://github.com/boushrabettir/todoit)<br/>
